@@ -5,4 +5,5 @@ Install the required dependencies:
 pip install qrcode[pil]
 
 
-Here qrcode.py file helps you to manage the size and colour of the QR code
+Here "qrcode as qr.py" is basic code to generate the Qr code 
+And "qrcode.py" file helps you to manage the size and colour of the QR code
