@@ -3,3 +3,6 @@ The QR Code Generator is a simple Python application that generates QR codes fro
 
 Install the required dependencies:
 pip install qrcode[pil]
+
+
+Here qrcode.py file helps you to manage the size colour of the QR code
